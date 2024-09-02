@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome!
 
-I am a fourth-year undergraduate student at the [School of Software Engineering, Tongji University](https://sse.tongji.edu.cn/). As a developer and researcher, my primary interests lie in **graph-based machine learning** and **AI for science (AI4Science)**. 
+My name is **Weida Wang (zh: 王蔚达)**, and I also go by David. I am a fourth-year undergraduate student at the [School of Software Engineering, Tongji University](https://sse.tongji.edu.cn/). As a developer and researcher, my primary interests lie in **graph-based machine learning** and **AI for science (AI4Science)**. 
 
 Over the past few years, I have gained substantial research experience across various domains. I have worked as a research assistant in the [Graph Signal Processing Lab](https://sse.tongji.edu.cn/xygk/xygk.htm) at Tongji University, collaborating with AP. [Jin Zeng](https://scholar.google.com/citations?hl=en&user=jBxf3FYAAAAJ). My journey also includes research stints at the [Intelligent Internet of Things Research Center (IIOT)](https://iiot.sjtu.edu.cn/#/)  at Shanghai Jiao Tong University, under the mentorship of Prof. [Guanjie Zheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=jJpqDQIAAAAJ). 
 
@@ -71,7 +71,7 @@ Feel free to check out my [Curriculum Vitae](../assets/Weida Wang-CV.pdf) for mo
 
 # 🧩 Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCCC HCI 2023</div><img src='images/projects/imagitale.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCCC HCI 2023</div><img src='../images/projects/imagitale.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ImagiTale - An Interactive Storybook Learning App for Children](https://www.bilibili.com/video/BV1FdHreAESo/?spm_id_from=333.999.0.0)
@@ -81,29 +81,24 @@ Feel free to check out my [Curriculum Vitae](../assets/Weida Wang-CV.pdf) for mo
 [**Mobile App**](https://www.appcontest.net/) | <strong>CCCC 2023&2024 Award-Winning Work</strong>
 
 - ImagiTale is an AI-driven application designed for children aged 6-8 and their parents. It enhances children's language expression and cognitive development by providing personalized picture book recommendations and encouraging active storytelling. 
-
-- The app is developed specifically for iPad using <u>*Xcode*</u> and <u>*Swift*</u>, with a user interface designed in <u>*SwiftUI*</u>. It employs <u>*SAM*</u> for dynamic image segmentation, enhancing visual interactivity. <u>*ChatGPT*</u> generates engaging dialogues, while <u>*Swift Speech*</u> handles speech-to-text and text-to-speech conversion. Additionally, a custom emotion analysis model offers tailored feedback to improve children's language learning through interactive storytelling.
-
-- This project was submitted to the 2024 China Collegiate Computing Contest - Mobile Application Innovation Contest ([CCCC App](https://www.appcontest.net/)), where it advanced to the <u>*finals (top 1%)*</u> and won the <u>*National Second Prize (top 0.4%)*</u> and the *<u>Best Innovation Award</u>* in the 2023 China Collegiate Computing Contest HCL Innovation Competition ([CCCC HCI](http://hci.oppo.com/)).
-
+- The app is developed specifically for iPad using <u>Xcode</u> and <u>Swift</u>, with a user interface designed in <u>SwiftUI</u>. It employs <u>SAM</u> for dynamic image segmentation, enhancing visual interactivity. <u>ChatGPT</u> generates engaging dialogues, while <u>Swift Speech</u> handles speech-to-text and text-to-speech conversion. Additionally, a custom emotion analysis model offers tailored feedback to improve children's language learning through interactive storytelling.
+- This project was submitted to the 2024 China Collegiate Computing Contest - Mobile Application Innovation Contest ([CCCC App](https://www.appcontest.net/)), where it advanced to the <u>finals (top 1%)</u> and won the <u>National Second Prize (top 0.4%)</u> and the <u>Best Innovation Award</u> in the 2023 China Collegiate Computing Contest HCL Innovation Competition ([CCCC HCI](http://hci.oppo.com/)).
   </div>
   </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iGEM 2023</div><img src='images/projects/igem.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iGEM 2023</div><img src='../images/projects/igem.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CASleuth - the Virus Detective](https://2023.igem.wiki/tongji-software/)
 
 [Tongji-Software Team](https://teams.igem.org/4787): **Weida Wang***, Shiyi Zhou\*, Ziyang Zhang\*, Yao Zhang, Yuxuan Wang, Yutong Chen, Yuanyi Lu, Xialu Chen, Xuanyi Liu
 
-[**Wiki**](https://2023.igem.wiki/tongji-software/) [**Software**](https://tongji-software-igem2023.com) [**Game**](https://www.bilibili.com/video/BV1Gh4y1v7Hv/?spm_id_from=333.999.0.0&vd_source=54848bbaacc95a6670b0f8ac0228b019) [**Video**](https://www.bilibili.com/video/BV1tz4y1M7aH/?spm_id_from=333.337.search-card.all.click&vd_source=54848bbaacc95a6670b0f8ac0228b019)| <strong>iGEM 2023 Software&AI Track Gold Medal-Winning Work</strong>
+[**Wiki**](https://2023.igem.wiki/tongji-software/) [**Software**](https://tongji-software-igem2023.com) [**Game**](https://www.bilibili.com/video/BV1Gh4y1v7Hv/?spm_id_from=333.999.0.0&vd_source=54848bbaacc95a6670b0f8ac0228b019) [**Video**](https://www.bilibili.com/video/BV1tz4y1M7aH/?spm_id_from=333.337.search-card.all.click&vd_source=54848bbaacc95a6670b0f8ac0228b019) | <strong>iGEM 2023 Software&AI Track Gold Medal-Winning Work</strong>
+
 
 - The COVID-19 pandemic underscored the need for rapid and accurate virus detection methods, as traditional PCR-based approaches are often time-consuming and require complex laboratory environments. In response, our project focuses on a novel detection method using the CRISPR-Cas system, which offers a more rapid, portable, and cost-effective alternative, particularly suitable for underdeveloped areas. By targeting viral RNA sequences with guide RNAs (gRNAs) designed for specific Cas proteins, this method provides a promising future for scalable and accessible virus detection.
-
 - To bridge the gap between cutting-edge biotechnology and public understanding, we designed an educational game called CASleuth. This game allows everyday users to learn about CRISPR-Cas technology interactively and engagingly. Alongside the game, we developed a software tool also named CASleuth, tailored for bioinformatics researchers. This tool facilitates efficient database queries and predictions of gRNA efficiencies for different viruses using a deep learning framework based on convolutional neural networks. The web platform serves to promote the project, raising awareness and encouraging adoption among both the scientific community and the general public.
-
 - The CASleuth project was showcased at the 2024 iGEM competition, where it earned a [Gold Medal](https://jamboree.igem.org/2023/results#medals) for its innovative approach in combining education with bioinformatics, enhancing public engagement and advancing virus detection research.
-
   </div>
   </div>
 
