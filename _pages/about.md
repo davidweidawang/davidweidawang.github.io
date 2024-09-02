@@ -23,7 +23,7 @@ My name is **Weida Wang (zh: 王蔚达)**, and I also go by David. I am a fourth
 
 Over the past few years, I have gained substantial research experience across various domains. I have worked as a research assistant in the [Graph Signal Processing Lab](https://sse.tongji.edu.cn/xygk/xygk.htm) at Tongji University, collaborating with AP. [Jin Zeng](https://scholar.google.com/citations?hl=en&user=jBxf3FYAAAAJ). My journey also includes research stints at the [Intelligent Internet of Things Research Center (IIOT)](https://iiot.sjtu.edu.cn/#/)  at Shanghai Jiao Tong University, under the mentorship of Prof. [Guanjie Zheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=jJpqDQIAAAAJ). 
 
-Feel free to check out my [Curriculum Vitae](../assets/Weida Wang-CV.pdf) for more details about my work. If you'd like to connect or discuss potential collaborations, don't hesitate to drop me an [email](tjudavidwang@gmail.com).
+If you'd like to connect or discuss potential collaborations, don't hesitate to drop me an [email](tjudavidwang@gmail.com).
 
 
 
@@ -31,8 +31,8 @@ Feel free to check out my [Curriculum Vitae](../assets/Weida Wang-CV.pdf) for mo
 
 
 # 🔥 News
-- *2024.09*: &nbsp; 📣📣 Excited to announce that I will be joining the **[OpenScienceLab](https://science.openxlab.org.cn/)** at [Shanghai Artificial Intelligence Labtory](https://www.shlab.org.cn/) as a Ph.D. candidate. Looking forward to advancing research in AI4Science under the guidance of leading experts in the field.
-- *2022.09*: &nbsp;🎉🎉 Selected as a member of the [Outstanding Science and Innovation Talent - Youth Enlightenment Program](https://mp.weixin.qq.com/s/bFF-IJLT49Ftm5x48avsCw) at Tongji University.
+- *2024.09*: 📣📣 Excited to join the OpenScienceLab at the Shanghai AI Laboratory as a Ph.D. candidate to further explore AI4Science research.
+- *2022.09*: 🎉🎉 Selected as a member of the [Outstanding Science and Innovation Talent - Youth Enlightenment Program](https://mp.weixin.qq.com/s/bFF-IJLT49Ftm5x48avsCw) at Tongji University.
 
 # 📝 Publications 
 
@@ -45,7 +45,7 @@ Feel free to check out my [Curriculum Vitae](../assets/Weida Wang-CV.pdf) for mo
   *Zhenghao Liu, <u><b>Weida Wang</b></u>, Yuning Chen, Shaoshuai Shi, Junjie Wang, Ruijie Zhao*<br>
   Bulletin of Engineering Geology and the Environment  (JCR Q1, IF=3.7)<br>
   <span class='paper-asset'><a href="https://link.springer.com/article/10.1007/s10064-024-03854-z">Page</a></span>
-- One paper has been submitted to <span class='paper-badge'>KDD 2025 Research Track August </span>as the second author, hope it be accepted🙏!
+- One paper has been submitted to <span class='paper-badge'>KDD 2025 Research Track August</span> as the second author, hope it be accepted🙏!
 
 # 🏅 Honors and Awards
 - *2023* National Scholarship (top 0.2% nation-wide)
@@ -54,7 +54,7 @@ Feel free to check out my [Curriculum Vitae](../assets/Weida Wang-CV.pdf) for mo
 - *2023* 🥇 First Prize of National Undergraduate Mathematics Competition (Non-mathematics Category) 
 - *2023* 🥇 First Prize of China Undergraduate Computer Design Competition (top 0.1% nation-wide)
 - *2023* 🥈 Second Prize of China Collegiate Computing Contest HCI Innovation Competition (top 0.4% nation-wide)
-- *2023* 🥇 First Prize of HuaShu Cup National Undergraduate Mathematical Modeling Contest  (top 2%)
+- *2023* 🥇 First Prize of HuaShu Cup National Undergraduate Mathematical Modeling Contest  (top 2% nation-wide)
 - *2023* 🥈 Honorable Mention of Mathematical Contest in Modeling 
 - *2022* 🥇 First Prize of Undergraduate Mathematics Competition (Non-mathematics Category) in Shanghai
 
