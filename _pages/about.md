@@ -47,7 +47,7 @@ Feel free to check out my [Curriculum Vitae](../assets/Weida Wang-CV.pdf) for mo
   <span class='paper-asset'><a href="https://link.springer.com/article/10.1007/s10064-024-03854-z">Page</a></span>
 - One paper has been submitted to <span class='paper-badge'>KDD 2025 Research Track August </span>as the second author, hope it be accepted🙏!
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2023* National Scholarship (top 0.2% nation-wide)
 - *2022,2023* Merit Student in Tongji University 
 - *2023* 🥇 Gold Medal of International Genetically Engineered Machine Competition (iGEM) AI & Software Track
@@ -71,10 +71,10 @@ Feel free to check out my [Curriculum Vitae](../assets/Weida Wang-CV.pdf) for mo
 
 # 🧩 Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCCC HCI 2023</div><img src='../images/projects/imagitale.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCCC HCI 2023</div><img src='../images/projects/long_imagitale.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ImagiTale - An Interactive Storybook Learning App for Children](https://www.bilibili.com/video/BV1FdHreAESo/?spm_id_from=333.999.0.0)
+**[ImagiTale - An Interactive Storybook Learning App for Children](https://www.bilibili.com/video/BV1FdHreAESo/?spm_id_from=333.999.0.0)**
 
 **Weida Wang**, Leya Yang, Xin Li, Yao Zhang, Yutong Fu, Xinyi Liao
 
@@ -88,8 +88,7 @@ Feel free to check out my [Curriculum Vitae](../assets/Weida Wang-CV.pdf) for mo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">iGEM 2023</div><img src='../images/projects/igem.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[CASleuth - the Virus Detective](https://2023.igem.wiki/tongji-software/)
+**[CASleuth - the Virus Detective](https://2023.igem.wiki/tongji-software/)**
 
 [Tongji-Software Team](https://teams.igem.org/4787): **Weida Wang***, Shiyi Zhou\*, Ziyang Zhang\*, Yao Zhang, Yuxuan Wang, Yutong Chen, Yuanyi Lu, Xialu Chen, Xuanyi Liu
 
