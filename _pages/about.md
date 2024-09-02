@@ -23,7 +23,7 @@ My name is **Weida Wang (zh: 王蔚达)**, and I also go by David. I am a fourth
 
 Over the past few years, I have gained substantial research experience across various domains. I have worked as a research assistant in the [Graph Signal Processing Lab](https://sse.tongji.edu.cn/xygk/xygk.htm) at Tongji University, collaborating with AP. [Jin Zeng](https://scholar.google.com/citations?hl=en&user=jBxf3FYAAAAJ). My journey also includes research stints at the [Intelligent Internet of Things Research Center (IIOT)](https://iiot.sjtu.edu.cn/#/)  at Shanghai Jiao Tong University, under the mentorship of Prof. [Guanjie Zheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=jJpqDQIAAAAJ). 
 
-If you'd like to connect or discuss potential collaborations, don't hesitate to drop me an [email](tjudavidwang@gmail.com).
+Feel free to check out my [Curriculum Vitae](../assets/Weida Wang-CV.pdf) for more details about my work. If you'd like to connect or discuss potential collaborations, don't hesitate to drop me an [email](tjudavidwang@gmail.com).
 
 
 
@@ -92,7 +92,7 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
 
 [Tongji-Software Team](https://teams.igem.org/4787): **Weida Wang***, Shiyi Zhou\*, Ziyang Zhang\*, Yao Zhang, Yuxuan Wang, Yutong Chen, Yuanyi Lu, Xialu Chen, Xuanyi Liu
 
-[**Wiki**](https://2023.igem.wiki/tongji-software/) [**Software**](https://tongji-software-igem2023.com) [**Game**](https://www.bilibili.com/video/BV1Gh4y1v7Hv/?spm_id_from=333.999.0.0&vd_source=54848bbaacc95a6670b0f8ac0228b019) [**Video**](https://www.bilibili.com/video/BV1tz4y1M7aH/?spm_id_from=333.337.search-card.all.click&vd_source=54848bbaacc95a6670b0f8ac0228b019) | <strong>iGEM 2023 Software&AI Track Gold Medal-Winning Work</strong>
+[**Wiki**](https://2023.igem.wiki/tongji-software/) [**Software**](https://tongji-software-igem2023.com) [**Game**](https://www.bilibili.com/video/BV1Gh4y1v7Hv/?spm_id_from=333.999.0.0&vd_source=54848bbaacc95a6670b0f8ac0228b019) [**Video**](https://www.bilibili.com/video/BV1tz4y1M7aH/?spm_id_from=333.337.search-card.all.click&vd_source=54848bbaacc95a6670b0f8ac0228b019) | <strong>iGEM 2023 Software&AI Track Gold Medal Work</strong>
 
 
 - The COVID-19 pandemic underscored the need for rapid and accurate virus detection methods, as traditional PCR-based approaches are often time-consuming and require complex laboratory environments. In response, our project focuses on a novel detection method using the CRISPR-Cas system, which offers a more rapid, portable, and cost-effective alternative, particularly suitable for underdeveloped areas. By targeting viral RNA sequences with guide RNAs (gRNAs) designed for specific Cas proteins, this method provides a promising future for scalable and accessible virus detection.
@@ -101,3 +101,6 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
 </div>
 </div>
 
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=V-15SBhVlTGZkkzGvASAzWa1Gz7gqKFjVUUDiBiDCaw&cl=ffffff&w=a"></script>
