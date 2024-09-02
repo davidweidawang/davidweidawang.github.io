@@ -31,7 +31,7 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
 
 
 # 🔥 News
-- *2024.09*: 📣📣 Excited to join the OpenScienceLab at the Shanghai AI Laboratory as a Ph.D. candidate to further explore AI4Science research.
+- *2024.09*: 📣📣 Excited to join the **[OpenScienceLab](https://science.openxlab.org.cn/)** at the [Shanghai AI Laboratory](https://www.shlab.org.cn/) as a Ph.D. candidate in AI4Science.
 - *2022.09*: 🎉🎉 Selected as a member of the [Outstanding Science and Innovation Talent - Youth Enlightenment Program](https://mp.weixin.qq.com/s/bFF-IJLT49Ftm5x48avsCw) at Tongji University.
 
 # 📝 Publications 
