@@ -36,14 +36,14 @@ Feel free to check out my [Curriculum Vitae](../assets/Weida Wang-CV.pdf) for mo
 
 # 📝 Publications 
 
-- **Characteristics of physical parameters and predictive modeling of mechanical properties in loess-like silty clay for engineering geology**
-  *Xianfeng Ma, Zhenghao Liu, **<u>Weida Wang</u>**, Junjie Wang, Linhai Lu, Dingyi Zhou, Hanwen Zhang*
-  Engineering Geology (JCR Q1, IF=6.9)
+- **Characteristics of physical parameters and predictive modeling of mechanical properties in loess-like silty clay for engineering geology**<br>
+  *Xianfeng Ma, Zhenghao Liu, <u><b>Weida Wang</b></u>, Junjie Wang, Linhai Lu, Dingyi Zhou, Hanwen Zhang*<br>
+  Engineering Geology (JCR Q1, IF=6.9)<br>
   <span class='paper-asset'><a href="https://www.sciencedirect.com/science/article/abs/pii/S0013795224002722">Page</a></span>
 
-- **DNN–GA–RF prediction model for rock strength indicators based on sound level and drilling parameters**
-  *Zhenghao Liu, **<u>Weida Wang</u>**, Yuning Chen, Shaoshuai Shi, Junjie Wang, Ruijie Zhao*
-  Bulletin of Engineering Geology and the Environment  (JCR Q1, IF=3.7)
+- **DNN–GA–RF prediction model for rock strength indicators based on sound level and drilling parameters**<br>
+  *Zhenghao Liu, <u><b>Weida Wang</b></u>, Yuning Chen, Shaoshuai Shi, Junjie Wang, Ruijie Zhao*<br>
+  Bulletin of Engineering Geology and the Environment  (JCR Q1, IF=3.7)<br>
   <span class='paper-asset'><a href="https://link.springer.com/article/10.1007/s10064-024-03854-z">Page</a></span>
 - One paper has been submitted to <span class='paper-badge'>KDD 2025 Research Track August </span>as the second author, hope it be accepted🙏!
 
@@ -83,8 +83,8 @@ Feel free to check out my [Curriculum Vitae](../assets/Weida Wang-CV.pdf) for mo
 - ImagiTale is an AI-driven application designed for children aged 6-8 and their parents. It enhances children's language expression and cognitive development by providing personalized picture book recommendations and encouraging active storytelling. 
 - The app is developed specifically for iPad using <u>Xcode</u> and <u>Swift</u>, with a user interface designed in <u>SwiftUI</u>. It employs <u>SAM</u> for dynamic image segmentation, enhancing visual interactivity. <u>ChatGPT</u> generates engaging dialogues, while <u>Swift Speech</u> handles speech-to-text and text-to-speech conversion. Additionally, a custom emotion analysis model offers tailored feedback to improve children's language learning through interactive storytelling.
 - This project was submitted to the 2024 China Collegiate Computing Contest - Mobile Application Innovation Contest ([CCCC App](https://www.appcontest.net/)), where it advanced to the <u>finals (top 1%)</u> and won the <u>National Second Prize (top 0.4%)</u> and the <u>Best Innovation Award</u> in the 2023 China Collegiate Computing Contest HCL Innovation Competition ([CCCC HCI](http://hci.oppo.com/)).
-  </div>
-  </div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">iGEM 2023</div><img src='../images/projects/igem.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -99,6 +99,6 @@ Feel free to check out my [Curriculum Vitae](../assets/Weida Wang-CV.pdf) for mo
 - The COVID-19 pandemic underscored the need for rapid and accurate virus detection methods, as traditional PCR-based approaches are often time-consuming and require complex laboratory environments. In response, our project focuses on a novel detection method using the CRISPR-Cas system, which offers a more rapid, portable, and cost-effective alternative, particularly suitable for underdeveloped areas. By targeting viral RNA sequences with guide RNAs (gRNAs) designed for specific Cas proteins, this method provides a promising future for scalable and accessible virus detection.
 - To bridge the gap between cutting-edge biotechnology and public understanding, we designed an educational game called CASleuth. This game allows everyday users to learn about CRISPR-Cas technology interactively and engagingly. Alongside the game, we developed a software tool also named CASleuth, tailored for bioinformatics researchers. This tool facilitates efficient database queries and predictions of gRNA efficiencies for different viruses using a deep learning framework based on convolutional neural networks. The web platform serves to promote the project, raising awareness and encouraging adoption among both the scientific community and the general public.
 - The CASleuth project was showcased at the 2024 iGEM competition, where it earned a [Gold Medal](https://jamboree.igem.org/2023/results#medals) for its innovative approach in combining education with bioinformatics, enhancing public engagement and advancing virus detection research.
-  </div>
-  </div>
+</div>
+</div>
 
