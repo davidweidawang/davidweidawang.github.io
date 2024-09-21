@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Welcome!
+# 👋 Welcome!
 
 My name is **Weida Wang (zh: 王蔚达)**, and I also go by David. I am a fourth-year undergraduate student at the [School of Software Engineering, Tongji University](https://sse.tongji.edu.cn/). As a developer and researcher, my primary interests lie in **graph-based machine learning** and **AI for science (AI4Science)**. 
 
@@ -31,7 +31,7 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
 
 
 # 🔥 News
-- *2024.09*: 📣📣 Excited to join the **[OpenScienceLab](https://science.openxlab.org.cn/)** at the [Shanghai AI Laboratory](https://www.shlab.org.cn/) as a Ph.D. candidate in AI4Science.
+<!-- *2024.09*: 📣📣 Excited to join the **[OpenScienceLab](https://science.openxlab.org.cn/)** at the [Shanghai AI Laboratory](https://www.shlab.org.cn/) as a Ph.D. candidate in AI4Science.-->
 - *2022.09*: 🎉🎉 Selected as a member of the [Outstanding Science and Innovation Talent - Youth Enlightenment Program](https://mp.weixin.qq.com/s/bFF-IJLT49Ftm5x48avsCw) at Tongji University.
 
 # 📝 Publications 
