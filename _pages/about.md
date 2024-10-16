@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 Welcome!
 
-My name is **Weida Wang (zh: 王蔚达)**, and I also go by David. I am a fourth-year undergraduate student at the [School of Software Engineering, Tongji University](https://sse.tongji.edu.cn/). As a developer and researcher, my primary interests lie in **graph-based machine learning** and **AI for science (AI4Science)**. 
+My name is **Weida Wang (zh: 王蔚达)**, and I also go by David. I am a fourth-year undergraduate student at the [School of Computer Science and Technology, Tongji University](https://sse.tongji.edu.cn/) majoring in Software Engineering. As a developer and researcher, my primary interests lie in **graph-based machine learning**, **LLM reasoning** and **AI for science (AI4Science)**. 
 
 Over the past few years, I have gained substantial research experience across various domains. I have worked as a research assistant in the [Graph Signal Processing Lab](https://sse.tongji.edu.cn/xygk/xygk.htm) at Tongji University, collaborating with AP. [Jin Zeng](https://scholar.google.com/citations?hl=en&user=jBxf3FYAAAAJ). My journey also includes research stints at the [Intelligent Internet of Things Research Center (IIOT)](https://iiot.sjtu.edu.cn/#/)  at Shanghai Jiao Tong University, under the mentorship of Prof. [Guanjie Zheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=jJpqDQIAAAAJ). 
 
