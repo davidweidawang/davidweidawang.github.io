@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 Welcome!
 
-My name is **Weida Wang (zh: 王蔚达)**, and I also go by David. I am a fourth-year undergraduate student at the [School of Computer Science and Technology, Tongji University](https://sse.tongji.edu.cn/) majoring in Software Engineering. As a developer and researcher, my primary interests lie in **graph-based machine learning**, **LLM reasoning** and **AI for science (AI4Science)**. 
+My name is **Weida Wang (zh: 王蔚达)**, and I also go by David. I am a fourth-year undergraduate student at the [School of Computer Science and Technology, Tongji University](https://sse.tongji.edu.cn/) majoring in Software Engineering. As a developer and researcher, my primary interests lie in **graph-based machine learning**, **LLM reasoning** and AI for science (**AI4Science**, currently in chemistry). 
 
 Over the past few years, I have gained substantial research experience across various domains. I have worked as a research assistant in the [Graph Signal Processing Lab](https://sse.tongji.edu.cn/xygk/xygk.htm) at Tongji University, collaborating with AP. [Jin Zeng](https://scholar.google.com/citations?hl=en&user=jBxf3FYAAAAJ). My journey also includes research stints at the [Intelligent Internet of Things Research Center (IIOT)](https://iiot.sjtu.edu.cn/#/)  at Shanghai Jiao Tong University, under the mentorship of Prof. [Guanjie Zheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=jJpqDQIAAAAJ). 
 
@@ -31,7 +31,7 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
 
 
 # 🔥 News
-- *2024.09*: 📣📣 Excited to join the [OpenScienceLab](https://science.openxlab.org.cn/) at the [Shanghai AI Laboratory](https://www.shlab.org.cn/) as a Ph.D. student in AI4Science.
+- *2024.09*: 📣📣 Excited to join the [OpenScienceLab](https://science.openxlab.org.cn/) at the [Shanghai AI Laboratory](https://www.shlab.org.cn/) as an intern in AI4Science group.
 - *2022.09*: 🎉🎉 Selected as a member of the [Outstanding Science and Innovation Talent - Youth Enlightenment Program](https://mp.weixin.qq.com/s/bFF-IJLT49Ftm5x48avsCw) at Tongji University.
 
 # 📝 Publications 
@@ -54,6 +54,7 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
 - *2023* 🥇 First Prize of National Undergraduate Mathematics Competition (Non-mathematics Category) 
 - *2023* 🥇 First Prize of China Undergraduate Computer Design Competition (top 0.1% nation-wide)
 - *2023* 🥈 Second Prize of China Collegiate Computing Contest HCI Innovation Competition (top 0.4% nation-wide)
+- *2024* 🥉Third Prize of China Collegiate Computing Contest  Mobile Application Innovation Contest (top 1% nation-wide)
 - *2023* 🥇 First Prize of HuaShu Cup National Undergraduate Mathematical Modeling Contest  (top 2% nation-wide)
 - *2023* 🥈 Honorable Mention of Mathematical Contest in Modeling 
 - *2022* 🥇 First Prize of Undergraduate Mathematics Competition (Non-mathematics Category) in Shanghai
@@ -63,6 +64,7 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
   - Supervised by [AP. Jin Zeng](https://scholar.google.com/citations?hl=en&user=jBxf3FYAAAAJ) and [Prof. Lin Zhang](https://scholar.google.com/citations?hl=en&user=8VOk_S4AAAAJ)
 
 # 💻 Internships
+- *2024.10 - Present*, AI for Science Group, Shanghai AI Laboratory [[link]](https://www.shlab.org.cn/)
 - *2023.07 - Present*, Graph Signal Processing Lab, Tongji University
 - *2023.11 - Present*, Intelligent Internet of Things Research Center (IIOT), Shanghai Jiao Tong University [[link]](https://iiot.sjtu.edu.cn/#/)
 - *2023.11 - 2024.03*, City Science Lab@Shanghai (MIT Media Lab) [[link]](https://www.media.mit.edu/projects/city-science-lab-shanghai/overview/)
@@ -82,7 +84,7 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
 
 - ImagiTale is an AI-driven application designed for children aged 6-8 and their parents. It enhances children's language expression and cognitive development by providing personalized picture book recommendations and encouraging active storytelling. 
 - The app is developed specifically for iPad using <u>Xcode</u> and <u>Swift</u>, with a user interface designed in <u>SwiftUI</u>. It employs <u>SAM</u> for dynamic image segmentation, enhancing visual interactivity. <u>ChatGPT</u> generates engaging dialogues, while <u>Swift Speech</u> handles speech-to-text and text-to-speech conversion. Additionally, a custom emotion analysis model offers tailored feedback to improve children's language learning through interactive storytelling.
-- This project was submitted to the 2024 China Collegiate Computing Contest - Mobile Application Innovation Contest ([CCCC App](https://www.appcontest.net/)), where it advanced to the <u>finals (top 1%)</u> and won the <u>National Second Prize (top 0.4%)</u> and the <u>Best Innovation Award</u> in the 2023 China Collegiate Computing Contest HCL Innovation Competition ([CCCC HCI](http://hci.oppo.com/)).
+- This project was submitted to the 2024 China Collegiate Computing Contest - Mobile Application Innovation Contest ([CCCC App](https://www.appcontest.net/)), where it won the <u>National Third Prize (top 1%)</u> and won the <u>National Second Prize (top 0.4%)</u> and the <u>Best Innovation Award</u> in the 2023 China Collegiate Computing Contest HCL Innovation Competition ([CCCC HCI](http://hci.oppo.com/)).
 </div>
 </div>
 
