@@ -45,11 +45,15 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
   *Zhenghao Liu, <u><b>Weida Wang</b></u>, Yuning Chen, Shaoshuai Shi, Junjie Wang, Ruijie Zhao*<br>
   Bulletin of Engineering Geology and the Environment  (JCR Q1, IF=3.7)<br>
   <span class='paper-asset'><a href="https://link.springer.com/article/10.1007/s10064-024-03854-z">Page</a></span>
-- One paper has been submitted to <span class='paper-badge'>KDD 2025 Research Track August</span> as the second author, hope it be accepted🙏!
+- <span class='paper-badge'>CCF-A</span> **Consistent Time-of-Flight Depth Denoising via Graph-Informed Geometric Attention**<br>
+  *<u><b>Weida Wang</b></u>, Changyong He, Jin Zeng, Di Qiu*<br>
+  International Conference on Computer Vision (ICCV 2025)<br>
+  <span class='paper-asset'><a href="https://github.com/davidweidawang/GIGA-ToF">Code</a></span>
 
 # 🏅 Honors and Awards
 - *2023* National Scholarship (top 0.2% nation-wide)
-- *2022,2023* Merit Student in Tongji University 
+- *2025* Outstanding Graduate Award of Shanghai
+- *2022,2023,2024* Merit Student in Tongji University 
 - *2023* 🥇 Gold Medal of International Genetically Engineered Machine Competition (iGEM) AI & Software Track
 - *2023* 🥇 First Prize of National Undergraduate Mathematics Competition (Non-mathematics Category) 
 - *2023* 🥇 First Prize of China Undergraduate Computer Design Competition (top 0.1% nation-wide)
@@ -60,13 +64,13 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
 - *2022* 🥇 First Prize of Undergraduate Mathematics Competition (Non-mathematics Category) in Shanghai
 
 # 📖 Educations
-- *2020-2025 (expected)*, Software Engineering, Tongji University, Shanghai, China
+- *2020-2025*, Software Engineering, Tongji University, Shanghai, China
   - Supervised by [AP. Jin Zeng](https://scholar.google.com/citations?hl=en&user=jBxf3FYAAAAJ) and [Prof. Lin Zhang](https://scholar.google.com/citations?hl=en&user=8VOk_S4AAAAJ)
 
 # 💻 Internships
 - *2024.10 - Present*, AI for Science Group, Shanghai AI Laboratory [[link]](https://www.shlab.org.cn/)
 - *2023.07 - Present*, Graph Signal Processing Lab, Tongji University
-- *2023.11 - Present*, Intelligent Internet of Things Research Center (IIOT), Shanghai Jiao Tong University [[link]](https://iiot.sjtu.edu.cn/#/)
+- *2023.11 - 2024.08*, Intelligent Internet of Things Research Center (IIOT), Shanghai Jiao Tong University [[link]](https://iiot.sjtu.edu.cn/#/)
 - *2023.11 - 2024.03*, City Science Lab@Shanghai (MIT Media Lab) [[link]](https://www.media.mit.edu/projects/city-science-lab-shanghai/overview/)
 - *2023.03 - 2024.03*, Key Laboratory of Geotechnical and Underground Engineering of the Ministry of Education, Tongji University [[link]](https://geokeylab.tongji.edu.cn/)
 - *2023.07 - 2023.08*, Hundsun Technologies Inc. [[link]](https://en.hundsun.com/)

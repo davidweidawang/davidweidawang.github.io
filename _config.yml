@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Weida Wang (王蔚达)"
 description              : "Senior student in Tongji University."
-repository               : "tjuDavidWang/tjuDavidWang.github.io"
+repository               : "davidweidawang/davidweidawang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tjuDavidWang" # e.g., "github username"
+  github           : "davidweidawang" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
