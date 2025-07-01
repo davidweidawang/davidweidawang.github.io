@@ -64,7 +64,7 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
 - *2022* 🥇 First Prize of Undergraduate Mathematics Competition (Non-mathematics Category) in Shanghai
 
 # 📖 Educations
-- *2020-2025*, Software Engineering, Tongji University, Shanghai, China
+- *2021-2025*, Software Engineering, Tongji University, Shanghai, China
   - Supervised by [AP. Jin Zeng](https://scholar.google.com/citations?hl=en&user=jBxf3FYAAAAJ) and [Prof. Lin Zhang](https://scholar.google.com/citations?hl=en&user=8VOk_S4AAAAJ)
 
 # 💻 Internships
