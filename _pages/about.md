@@ -19,11 +19,11 @@ redirect_from:
 
 # 👋 Welcome!
 
-My name is **Weida Wang (zh: 王蔚达)**, and I also go by David. I am a fourth-year undergraduate student at the [School of Computer Science and Technology, Tongji University](https://sse.tongji.edu.cn/) majoring in Software Engineering. As a developer and researcher, my primary interests lie in **graph-based machine learning**, **LLM reasoning** and AI for science (**AI4Science**, currently in chemistry). 
+My name is **Weida Wang (zh: 王蔚达)**, and I also go by David. I am currently a first-year PhD student at the [College of Computer Science and Artificial Intelligence, Fudan University](https://cs.fudan.edu.cn/), where I am also collaborating with the [Shanghai AI Lab](https://cs.fudan.edu.cn/). My research interests primarily lie in LLM reasoning, **multi-agent systems** and **AI for science**, with a recent focus on **chemistry** and **condensed matter physics**.
 
-Over the past few years, I have gained substantial research experience across various domains. I have worked as a research assistant in the [Graph Signal Processing Lab](https://sse.tongji.edu.cn/xygk/xygk.htm) at Tongji University, collaborating with AP. [Jin Zeng](https://scholar.google.com/citations?hl=en&user=jBxf3FYAAAAJ). My journey also includes research stints at the [Intelligent Internet of Things Research Center (IIOT)](https://iiot.sjtu.edu.cn/#/)  at Shanghai Jiao Tong University, under the mentorship of Prof. [Guanjie Zheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=jJpqDQIAAAAJ). 
+Prior to this, I completed my undergraduate studies in Software Engineering at the [School of Computer Science and Technology, Tongji University](https://cs.tongji.edu.cn/). Over the past few years, I have gained valuable research experience in various domains. I have worked as a research assistant in the [Graph Signal Processing Lab](https://sse.tongji.edu.cn/xygk/xygk.htm) at Tongji University, collaborating with AP. [Jin Zeng](https://scholar.google.com/citations?hl=en&user=jBxf3FYAAAAJ). I have also contributed to research at the [Intelligent Internet of Things Research Center (IIOT)](https://iiot.sjtu.edu.cn/#/) at Shanghai Jiao Tong University, under the mentorship of Prof. [Guanjie Zheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=jJpqDQIAAAAJ).
 
-If you'd like to connect or discuss potential collaborations, don't hesitate to drop me an [email](tjudavidwang@gmail.com).
+If you'd like to connect or discuss potential collaborations, don't hesitate to drop me an [email](mailto:tjudavidwang@gmail.com).
 
 
 
@@ -31,7 +31,9 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
 
 
 # 🔥 News
-- *2024.09*: 📣📣 Excited to join the [OpenScienceLab](https://science.openxlab.org.cn/) at the [Shanghai AI Laboratory](https://www.shlab.org.cn/) as an intern in AI4Science group.
+- *2025.08*: We realsed [***CMPhysBench***](https://github.com/CMPhysBench/CMPhysBench), try to test your model's ability to solve graduate-level condensed matter physics problems. 
+- *2025.07*: Our work [***GIGA-ToF***](https://github.com/davidweidawang/GIGA-ToF) is accepted by **ICCV 2025**, lots of thanks to my collaborators.
+- *2024.09*: 📣📣 Excited to join the [OpenScienceLab](https://science.openxlab.org.cn/) at the [Shanghai AI Laboratory](https://cs.fudan.edu.cn/) as an intern in AI4Science group.
 - *2022.09*: 🎉🎉 Selected as a member of the [Outstanding Science and Innovation Talent - Youth Enlightenment Program](https://mp.weixin.qq.com/s/bFF-IJLT49Ftm5x48avsCw) at Tongji University.
 
 # 📝 Publications 
@@ -39,16 +41,16 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
 - **Characteristics of physical parameters and predictive modeling of mechanical properties in loess-like silty clay for engineering geology**<br>
   *Xianfeng Ma, Zhenghao Liu, <u><b>Weida Wang</b></u>, Junjie Wang, Linhai Lu, Dingyi Zhou, Hanwen Zhang*<br>
   Engineering Geology (JCR Q1, IF=6.9)<br>
-  <span class='paper-asset'><a href="https://www.sciencedirect.com/science/article/abs/pii/S0013795224002722">Page</a></span>
+  <span class='paper-asset'><a href="https://www.sciencedirect.com/science/article/abs/pii/S0013795224002722">Paper</a></span>
 
 - **DNN–GA–RF prediction model for rock strength indicators based on sound level and drilling parameters**<br>
   *Zhenghao Liu, <u><b>Weida Wang</b></u>, Yuning Chen, Shaoshuai Shi, Junjie Wang, Ruijie Zhao*<br>
   Bulletin of Engineering Geology and the Environment  (JCR Q1, IF=3.7)<br>
-  <span class='paper-asset'><a href="https://link.springer.com/article/10.1007/s10064-024-03854-z">Page</a></span>
+  <span class='paper-asset'><a href="https://link.springer.com/article/10.1007/s10064-024-03854-z">Paper</a></span>
 - <span class='paper-badge'>CCF-A</span> **Consistent Time-of-Flight Depth Denoising via Graph-Informed Geometric Attention**<br>
   *<u><b>Weida Wang</b></u>, Changyong He, Jin Zeng, Di Qiu*<br>
   International Conference on Computer Vision (ICCV 2025)<br>
-  <span class='paper-asset'><a href="https://github.com/davidweidawang/GIGA-ToF">Code</a></span>
+    <span class='paper-asset'><a href="https://arxiv.org/pdf/2506.23542">Paper</a></span>    <span class='paper-asset'><a href="https://github.com/davidweidawang/GIGA-ToF">Code</a></span>
 
 # 🏅 Honors and Awards
 - *2023* National Scholarship (top 0.2% nation-wide)
@@ -64,12 +66,16 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
 - *2022* 🥇 First Prize of Undergraduate Mathematics Competition (Non-mathematics Category) in Shanghai
 
 # 📖 Educations
-- *2021-2025*, Software Engineering, Tongji University, Shanghai, China
+- *2025-2030*, College of Computer Science and Artificial Intelligence, Fudan University, Shanghai, China
+  - Supervised by [Prof. Wanli Ouyang](https://scholar.google.com/citations?hl=zh-CN&user=pw_0Z_UAAAAJ)
+
+
+- *2021-2025*, School of Computer Science and Technology, Tongji University, Shanghai, China
   - Supervised by [AP. Jin Zeng](https://scholar.google.com/citations?hl=en&user=jBxf3FYAAAAJ) and [Prof. Lin Zhang](https://scholar.google.com/citations?hl=en&user=8VOk_S4AAAAJ)
 
 # 💻 Internships
 - *2024.10 - Present*, AI for Science Group, Shanghai AI Laboratory [[link]](https://www.shlab.org.cn/)
-- *2023.07 - Present*, Graph Signal Processing Lab, Tongji University
+- *2023.07 - 2025.03*, Graph Signal Processing Lab, Tongji University
 - *2023.11 - 2024.08*, Intelligent Internet of Things Research Center (IIOT), Shanghai Jiao Tong University [[link]](https://iiot.sjtu.edu.cn/#/)
 - *2023.11 - 2024.03*, City Science Lab@Shanghai (MIT Media Lab) [[link]](https://www.media.mit.edu/projects/city-science-lab-shanghai/overview/)
 - *2023.03 - 2024.03*, Key Laboratory of Geotechnical and Underground Engineering of the Ministry of Education, Tongji University [[link]](https://geokeylab.tongji.edu.cn/)
