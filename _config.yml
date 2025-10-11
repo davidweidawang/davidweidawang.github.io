@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weida Wang (王蔚达)"
-description              : "Senior student in Tongji University."
+description              : "Phd student at Fudan University"
 repository               : "davidweidawang/davidweidawang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weida Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tongji University"
+  bio              : "Fudan University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
