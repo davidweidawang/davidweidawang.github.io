@@ -19,9 +19,9 @@ redirect_from:
 
 # 👋 Welcome!
 
-My name is **Weida Wang (zh: 王蔚达)**, and I also go by David. I am currently a first-year PhD student at the [College of Computer Science and Artificial Intelligence, Fudan University](https://cs.fudan.edu.cn/), where I am also collaborating with the [Shanghai AI Lab](https://cs.fudan.edu.cn/). My research interests primarily lie in LLM reasoning, **multi-agent systems** and **AI for science**, with a recent focus on **chemistry** and **condensed matter physics**.
+My name is **Weida Wang (zh: 王蔚达)**, and I also go by David. I am currently a first-year PhD student at the [College of Computer Science and Artificial Intelligence, Fudan University](https://cs.fudan.edu.cn/), where I am also collaborating with the [Shanghai AI Lab](https://cs.fudan.edu.cn/). My research interests primarily lie in LLM reasoning, **agent for science**, with a recent focus on **physical science**.
 
-Prior to this, I completed my undergraduate studies in Software Engineering at the [School of Computer Science and Technology, Tongji University](https://cs.tongji.edu.cn/). Over the past few years, I have gained valuable research experience in various domains. I have worked as a research assistant in the [Graph Signal Processing Lab](https://sse.tongji.edu.cn/xygk/xygk.htm) at Tongji University, collaborating with AP. [Jin Zeng](https://scholar.google.com/citations?hl=en&user=jBxf3FYAAAAJ). I have also contributed to research at the [Intelligent Internet of Things Research Center (IIOT)](https://iiot.sjtu.edu.cn/#/) at Shanghai Jiao Tong University, under the mentorship of Prof. [Guanjie Zheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=jJpqDQIAAAAJ).
+Prior to this, I completed my undergraduate studies in Software Engineering at the [School of Computer Science and Technology, Tongji University](https://cs.tongji.edu.cn/). Over the past few years, I have gained valuable research experience in various domains, and worked closely with AP. [Jin Zeng](https://scholar.google.com/citations?hl=en&user=jBxf3FYAAAAJ) (Tongji Univ), Prof. [Lin Zhang](https://scholar.google.com/citations?hl=en&user=8VOk_S4AAAAJ) (Tongji Univ) and Prof. [Guanjie Zheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=jJpqDQIAAAAJ) (Shanghai Jiaotong Univ).
 
 If you'd like to connect or discuss potential collaborations, don't hesitate to drop me an [email](mailto:tjudavidwang@gmail.com).
 
@@ -31,14 +31,14 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
 
 
 # 🔥 News
-- *2025.08*: We realsed [***CMPhysBench***](https://github.com/CMPhysBench/CMPhysBench), try to test your model's ability to solve graduate-level condensed matter physics problems. 
+- *2026.01*: Our condensed matter physics benchmark [***CMPhysBench***](https://github.com/CMPhysBench/CMPhysBench) is accepted by **ICLR 2026**, lots of thanks to my collaborators. Catch you in Rio!
 - *2025.07*: Our work [***GIGA-ToF***](https://github.com/davidweidawang/GIGA-ToF) is accepted by **ICCV 2025**, lots of thanks to my collaborators.
 - *2024.09*: 📣📣 Excited to join the [OpenScienceLab](https://science.openxlab.org.cn/) at the [Shanghai AI Laboratory](https://cs.fudan.edu.cn/) as an intern in AI4Science group.
 - *2022.09*: 🎉🎉 Selected as a member of the [Outstanding Science and Innovation Talent - Youth Enlightenment Program](https://mp.weixin.qq.com/s/bFF-IJLT49Ftm5x48avsCw) at Tongji University.
 
 # 📝 Publications 
 
-- **Characteristics of physical parameters and predictive modeling of mechanical properties in loess-like silty clay for engineering geology**<br>
+<!-- - **Characteristics of physical parameters and predictive modeling of mechanical properties in loess-like silty clay for engineering geology**<br>
   *Xianfeng Ma, Zhenghao Liu, <u><b>Weida Wang</b></u>, Junjie Wang, Linhai Lu, Dingyi Zhou, Hanwen Zhang*<br>
   Engineering Geology (JCR Q1, IF=6.9)<br>
   <span class='paper-asset'><a href="https://www.sciencedirect.com/science/article/abs/pii/S0013795224002722">Paper</a></span>
@@ -46,9 +46,18 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
 - **DNN–GA–RF prediction model for rock strength indicators based on sound level and drilling parameters**<br>
   *Zhenghao Liu, <u><b>Weida Wang</b></u>, Yuning Chen, Shaoshuai Shi, Junjie Wang, Ruijie Zhao*<br>
   Bulletin of Engineering Geology and the Environment  (JCR Q1, IF=3.7)<br>
-  <span class='paper-asset'><a href="https://link.springer.com/article/10.1007/s10064-024-03854-z">Paper</a></span>
+  <span class='paper-asset'><a href="https://link.springer.com/article/10.1007/s10064-024-03854-z">Paper</a></span> -->
+- <span class='paper-badge'>CCF-A</span> **CMPhysBench: A benchmark for evaluating large language models in Condensed Matter Physics**<br>
+  <u><b>Weida Wang*</b></u>, Dongchen Huang\*, Jiatong Li\*, Tengchao Yang\*, Ziyang Zheng\*, Chuyi Peng, ..., Yunqi Cai, Xi Dai, Shufei Zhang, Lei Bai, Jinguang Cheng, Zhong Fang, Hongming Weng
+<br>
+  International Conference on Learning Representations (ICLR 2026).<br>
+    <span class='paper-asset'><a href="https://arxiv.org/pdf/2508.18124">Paper</a></span>    <span class='paper-asset'><a href="https://github.com/CMPhysBench/CMPhysBench">Code</a></span>
+- <span class='paper-badge'>CCF-A</span> **TRACK: Temporal Decoupled Kriging for Inductive Spatio-temporal Graph**<br>
+  Jianping Zhou, <u><b>Weida Wang</b></u>, Bin Lu, Guanjie Zheng, Lei Bai, Xinbing Wang, Chenghu Zhou<br>
+  Transactions on Knowledge and Data Engineering (TKDE 2026)<br>
+    <span class='paper-asset'><a href="https://arxiv.org/pdf/2506.23542">Paper</a></span>    <span class='paper-asset'><a href="https://github.com/davidweidawang/GIGA-ToF">Code</a></span>
 - <span class='paper-badge'>CCF-A</span> **Consistent Time-of-Flight Depth Denoising via Graph-Informed Geometric Attention**<br>
-  *<u><b>Weida Wang</b></u>, Changyong He, Jin Zeng, Di Qiu*<br>
+  <u><b>Weida Wang*</b></u>, Changyong He\*, Jin Zeng, Di Qiu<br>
   International Conference on Computer Vision (ICCV 2025)<br>
     <span class='paper-asset'><a href="https://arxiv.org/pdf/2506.23542">Paper</a></span>    <span class='paper-asset'><a href="https://github.com/davidweidawang/GIGA-ToF">Code</a></span>
 
