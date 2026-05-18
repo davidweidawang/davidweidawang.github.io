@@ -31,7 +31,9 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
 
 
 # 🔥 News
-- *2026.01*: Our condensed matter physics benchmark [***CMPhysBench***](https://github.com/CMPhysBench/CMPhysBench) is accepted by **ICLR 2026**, lots of thanks to my collaborators. Catch you in Rio!
+- *2026.05*: Our chemical reasoning model [***Chem-R***](https://huggingface.co/weidawang/Chem-R-8B) and moleclue generation benchmark [***S^2-Bench***](https://arxiv.org/pdf/2412.14642) is accepted by **KDD 2026**. Catch you in Jeju 🇰🇷!
+- *2026.04*: Our efficient reasoning method [***Step-GRPO***](https://arxiv.org/pdf/2604.16890) is accepted by **ACL 2026**, lots of thanks to Dr. Mingbao Lin and AP.Min Zhang.
+- *2026.01*: Our condensed matter physics benchmark [***CMPhysBench***](https://github.com/CMPhysBench/CMPhysBench) is accepted by **ICLR 2026**, lots of thanks to all my collaborators. Catch you in Rio 🇧🇷!
 - *2025.07*: Our work [***GIGA-ToF***](https://github.com/davidweidawang/GIGA-ToF) is accepted by **ICCV 2025**, lots of thanks to my collaborators.
 - *2024.09*: 📣📣 Excited to join the [OpenScienceLab](https://science.openxlab.org.cn/) at the [Shanghai AI Laboratory](https://cs.fudan.edu.cn/) as an intern in AI4Science group.
 - *2022.09*: 🎉🎉 Selected as a member of the [Outstanding Science and Innovation Talent - Youth Enlightenment Program](https://mp.weixin.qq.com/s/bFF-IJLT49Ftm5x48avsCw) at Tongji University.
@@ -47,32 +49,37 @@ If you'd like to connect or discuss potential collaborations, don't hesitate to 
   *Zhenghao Liu, <u><b>Weida Wang</b></u>, Yuning Chen, Shaoshuai Shi, Junjie Wang, Ruijie Zhao*<br>
   Bulletin of Engineering Geology and the Environment  (JCR Q1, IF=3.7)<br>
   <span class='paper-asset'><a href="https://link.springer.com/article/10.1007/s10064-024-03854-z">Paper</a></span> -->
+- <span class='paper-badge'>CCF-A</span> **Chem-R: Learning to Reason as a Chemist**<br>
+  <u><b>Weida Wang*</b></u>, Benteng Chen\*, Di Zhang\*, Wanhao Liu, Shuchen Pu, Ben Gao, Jin Zeng, Xiaoyong Wei, Tianshu Yu, Shuzhou Sun, Tianfan Fu, Wanli Ouyang, Lei Bai, Jiatong Li, Zifu Wang, Yuqiang Li, Shufei Zhang<br>
+  <span class='paper-venue'>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)</span><br>
+    <span class='paper-asset'><a href="https://arxiv.org/abs/2510.16880">Paper</a></span>    <span class='paper-asset'><a href="https://github.com/davidweidawang/Chem-R">Code</a></span> <span class='paper-asset'><a href="https://huggingface.co/weidawang/Chem-R-8B">Model</a></span>
+
 - <span class='paper-badge'>CCF-A</span> **CMPhysBench: A Benchmark for Evaluating Large Language Models in Condensed Matter Physics**<br>
   <u><b>Weida Wang*</b></u>, Dongchen Huang\*, Jiatong Li\*, Tengchao Yang\*, Ziyang Zheng\*, Chuyi Peng, ..., Yunqi Cai, Xi Dai, Shufei Zhang, Lei Bai, Jinguang Cheng, Zhong Fang, Hongming Weng
 <br>
-  International Conference on Learning Representations (ICLR 2026).<br>
+  <span class='paper-venue'>International Conference on Learning Representations (ICLR 2026).</span><br>
     <span class='paper-asset'><a href="https://arxiv.org/pdf/2508.18124">Paper</a></span>    <span class='paper-asset'><a href="https://github.com/CMPhysBench/CMPhysBench">Code</a></span>
 
 - <span class='paper-badge'>CCF-A</span> **Consistent Time-of-Flight Depth Denoising via Graph-Informed Geometric Attention**<br>
   <u><b>Weida Wang*</b></u>, Changyong He\*, Jin Zeng, Di Qiu<br>
-  International Conference on Computer Vision (ICCV 2025)<br>
+  <span class='paper-venue'>International Conference on Computer Vision (ICCV 2025)</span><br>
     <span class='paper-asset'><a href="https://arxiv.org/pdf/2506.23542">Paper</a></span>    <span class='paper-asset'><a href="https://github.com/davidweidawang/GIGA-ToF">Code</a></span>
 
 
 - <span class='paper-badge'>CCF-A</span> **Step-GRPO: Internalizing Dynamic Early Exit for Efficient Reasoning**<br>
   Benteng Chen*, <u><b>Weida Wang*</b></u> (project leader), Shufei Zhang, Mingbao Lin, Min Zhang<br>
-   Annual Meeting of the Association for Computational Linguistics (ACL 2026)<br>
+   <span class='paper-venue'>Annual Meeting of the Association for Computational Linguistics (ACL 2026)</span><br>
     <span class='paper-asset'><a href="https://arxiv.org/pdf/2604.16890">Paper</a></span>    
 
 - <span class='paper-badge'>CCF-A</span> **PolyReal: A Benchmark for Real-World Polymer Science Workflows**<br>
   Wanhao Liu*, <u><b>Weida Wang*</b></u>,  Jiaqing Xie, Suorong Yang, Jue Wang, Benteng Chen, Guangtao Mei, Zonglin Yang, Shufei Zhang, Yuchun Mo, Lang Cheng, Jin Zeng, Houqiang Li, Wanli Ouyang, Yuqiang Li<br>
-  Computer Vision and Pattern Recognition (CVPR 2026) Findings<br>
+  <span class='paper-venue'>Computer Vision and Pattern Recognition (CVPR 2026) Findings</span><br>
     <span class='paper-asset'><a href="https://arxiv.org/pdf/2604.02934">Paper</a></span>     <span class='paper-asset'><a href="https://github.com/wanhaoliu/PolyReal">Code</a></span>
 
 - <span class='paper-badge'>CCF-A</span> **TRACK: Temporal Decoupled Kriging for Inductive Spatio-temporal Graph**<br>
   Jianping Zhou, <u><b>Weida Wang</b></u>, Bin Lu, Guanjie Zheng, Lei Bai, Xinbing Wang, Chenghu Zhou<br>
-  Transactions on Knowledge and Data Engineering (TKDE 2026)<br>
-    <span class='paper-asset'><a href="https://arxiv.org/pdf/2506.23542">Paper</a></span> 
+  <span class='paper-venue'>Transactions on Knowledge and Data Engineering (TKDE 2026)</span><br>
+    <span class='paper-asset'><a href="https://ieeexplore.ieee.org/document/11434965/">Paper</a></span> 
 # 🏅 Honors and Awards
 - *2023* National Scholarship (top 0.2% nation-wide)
 - *2025* Outstanding Graduate Award of Shanghai
