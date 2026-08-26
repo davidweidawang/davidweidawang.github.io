@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weida Wang (王蔚达)"
-description              : "Phd student at Fudan University"
+description              : "Ph.D. student at Fudan University · LLM Reasoning · AI for Science"
 repository               : "davidweidawang/davidweidawang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weida Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Fudan University"
+  bio              : "Ph.D. Student · Fudan University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=eQXqmG8AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=eQXqmG8AAAAJ"
   email            : "tjudavidwang@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -38,6 +38,7 @@ author:
   facebook         :
   foursquare       :
   github           : "davidweidawang" # e.g., "github username"
+  huggingface      : "weidawang"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +46,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0005-5893-525X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

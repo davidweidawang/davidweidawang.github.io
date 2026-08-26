@@ -1,25 +1,22 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "About"
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#selected-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Experience"
+    url: "/#education--experience"
 
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Honors"
+    url: "/#selected-honors"
 
   - title: "Projects"
-    url: "/#-projects"
+    url: "/#selected-projects"
   
   - title: "Blog"
     url: "https://wwd.zeabur.app/"
