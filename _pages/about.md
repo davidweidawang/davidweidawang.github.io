@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Weida Wang — Ph.D. student at Fudan University working on scientific reasoning and AI for Science."
+excerpt: ""
 author_profile: true
 redirect_from:
   - /about/
@@ -10,151 +10,168 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-<section class="hero-intro">
-  <p class="hero-eyebrow">Ph.D. Student · Fudan University · Shanghai AI Laboratory</p>
-  <h1>Building reliable reasoning systems for scientific discovery.</h1>
-  <p class="hero-lead">I am <strong>Weida Wang (王蔚达)</strong>, also known as David. My research sits at the intersection of large language model reasoning, scientific agents, and AI for physical science.</p>
-  <div class="research-pills" aria-label="Research interests">
-    <span>LLM Reasoning</span>
-    <span>Scientific Agents</span>
-    <span>AI for Chemistry</span>
-    <span>AI for Physics &amp; Materials</span>
-  </div>
-  <div class="hero-actions">
-    <a class="action-link action-link--primary" href="mailto:tjudavidwang@gmail.com"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
-    <a class="action-link" href="https://github.com/davidweidawang"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
-    <a class="action-link" href="https://scholar.google.com/citations?hl=zh-CN&amp;user=eQXqmG8AAAAJ"><i class="ai ai-google-scholar" aria-hidden="true"></i> Scholar</a>
-    <a class="action-link" href="https://huggingface.co/weidawang">🤗 Hugging Face</a>
-    <a class="action-link" href="https://orcid.org/0009-0005-5893-525X"><i class="ai ai-orcid" aria-hidden="true"></i> ORCID</a>
-  </div>
-</section>
+# About Me
 
-I am a first-year Ph.D. student at the [College of Computer Science and Artificial Intelligence, Fudan University](https://cs.fudan.edu.cn/), advised by [Prof. Wanli Ouyang](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ). I also conduct AI for Science research with the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/).
+<p class="about-copy">My name is <strong>Weida Wang (王蔚达)</strong>, and I also go by David. I am currently a first-year Ph.D. student at the College of Computer Science and Artificial Intelligence, <a class="org-chip org-chip--fudan" href="https://www.fudan.edu.cn/"><img src="/images/logos/fudan.png" alt="">Fudan University</a>, advised by <a href="https://scholar.google.com/citations?user=pw_0Z_UAAAAJ">Prof. Wanli Ouyang</a>. I also conduct AI for Science research with the <a class="org-chip org-chip--shlab" href="https://www.shlab.org.cn/"><img src="/images/logos/shlab.png" alt="">Shanghai AI Laboratory</a>.</p>
 
-Before joining Fudan, I received my B.Eng. in Software Engineering from [Tongji University](https://cs.tongji.edu.cn/) in 2025, where I worked with [Prof. Jin Zeng](https://scholar.google.com/citations?user=jBxf3FYAAAAJ), [Prof. Lin Zhang](https://scholar.google.com/citations?user=8VOk_S4AAAAJ), and [Prof. Guanjie Zheng](https://scholar.google.com/citations?user=jJpqDQIAAAAJ). My current work asks how language models can reason faithfully, use scientific tools, and move from benchmark problem solving toward practical scientific workflows.
+<p class="about-copy">Prior to this, I received my B.Eng. in Software Engineering from the School of Computer Science and Technology, <a class="org-chip org-chip--tongji" href="https://www.tongji.edu.cn/"><img src="/images/logos/tongji.png" alt="">Tongji University</a> in 2025. I worked closely with <a href="https://scholar.google.com/citations?user=jBxf3FYAAAAJ">Prof. Jin Zeng</a>, <a href="https://scholar.google.com/citations?user=8VOk_S4AAAAJ">Prof. Lin Zhang</a>, and <a href="https://scholar.google.com/citations?user=jJpqDQIAAAAJ">Prof. Guanjie Zheng</a>.</p>
 
-<div class="collaboration-note"><strong>Collaboration.</strong> I am always happy to discuss LLM reasoning and AI for Science. If our interests overlap, please feel free to <a href="mailto:tjudavidwang@gmail.com">get in touch</a>.</div>
+<p class="about-copy">My research interests focus on <strong>AI Scientist, Agent for Science, RSI, and LLM Reasoning</strong>. I am particularly interested in building autonomous systems that can reason, learn, and continually improve through real scientific workflows.</p>
 
-# News
+<p class="collaboration-line">🐕 <strong>Collaboration:</strong> I am always happy to discuss LLM reasoning and AI for Science. If our interests overlap, please feel free to <a href="mailto:tjudavidwang@gmail.com">contact me</a>.</p>
+
+# 🔥 News
 
 <div class="news-list" role="list">
-  <div class="news-item" role="listitem"><time>2026.08</time><p><a href="https://doi.org/10.1145/3770855.3818854"><strong>Chem-R</strong></a> and <a href="https://doi.org/10.1145/3770855.3817473"><strong>Speak-to-Structure (S²-Bench)</strong></a> were published at <strong>KDD 2026</strong>. See you in Jeju!</p></div>
-  <div class="news-item" role="listitem"><time>2026.08</time><p>Released <a href="https://arxiv.org/abs/2608.23104"><strong>Molecular LLM Agents</strong></a>, a framework and autonomy ladder for molecular-science agents.</p></div>
-  <div class="news-item" role="listitem"><time>2026.07</time><p>Released two studies on molecular reasoning: <a href="https://arxiv.org/abs/2607.20935">Chemical Chain-of-Thought</a> and <a href="https://arxiv.org/abs/2607.01800">Molecular Generalization</a>.</p></div>
-  <div class="news-item" role="listitem"><time>2026.07</time><p><a href="https://aclanthology.org/2026.acl-long.990/"><strong>Step-GRPO</strong></a> appeared at <strong>ACL 2026</strong>.</p></div>
-  <div class="news-item" role="listitem"><time>2026.05</time><p><a href="https://doi.org/10.1109/TKDE.2026.3674348"><strong>TRACK</strong></a> was published in <strong>IEEE TKDE</strong>.</p></div>
-  <div class="news-item" role="listitem"><time>2026.04</time><p><a href="https://polyreal-benchmark.github.io/"><strong>PolyReal</strong></a>, a benchmark grounded in real polymer-science workflows, appeared at <strong>CVPR 2026</strong>.</p></div>
-  <div class="news-item" role="listitem"><time>2026.01</time><p><a href="https://openreview.net/forum?id=3d0FRYx0D0"><strong>CMPhysBench</strong></a> was accepted to <strong>ICLR 2026</strong>.</p></div>
-  <div class="news-item" role="listitem"><time>2025.10</time><p><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Consistent_Time-of-Flight_Depth_Denoising_via_Graph-Informed_Geometric_Attention_ICCV_2025_paper.html"><strong>GIGA-ToF</strong></a> appeared at <strong>ICCV 2025</strong>.</p></div>
+  <div class="news-item" role="listitem"><time>2026.05</time><p>🎉 Our chemical reasoning model <a href="https://huggingface.co/weidawang/Chem-R-8B"><strong><em>Chem-R</em></strong></a> and molecule generation benchmark <a href="https://arxiv.org/pdf/2412.14642"><strong><em>S²-Bench</em></strong></a> were accepted to <strong>KDD 2026</strong>. See you in Jeju 🇰🇷!</p></div>
+  <div class="news-item" role="listitem"><time>2026.04</time><p>🚀 Our efficient reasoning method <a href="https://arxiv.org/pdf/2604.16890"><strong><em>Step-GRPO</em></strong></a> was accepted to <strong>ACL 2026</strong>. Many thanks to Dr. Mingbao Lin and Prof. Min Zhang.</p></div>
+  <div class="news-item" role="listitem"><time>2026.01</time><p>🎉 Our condensed matter physics benchmark <a href="https://github.com/CMPhysBench/CMPhysBench"><strong><em>CMPhysBench</em></strong></a> was accepted to <strong>ICLR 2026</strong>. Many thanks to all my collaborators. See you in Rio 🇧🇷!</p></div>
+  <div class="news-item" role="listitem"><time>2025.07</time><p>🎉 Our work <a href="https://github.com/davidweidawang/GIGA-ToF"><strong><em>GIGA-ToF</em></strong></a> was accepted to <strong>ICCV 2025</strong>. Many thanks to my collaborators.</p></div>
+  <div class="news-item" role="listitem"><time>2024.09</time><p>📣 Joined the <a href="https://science.openxlab.org.cn/">OpenScienceLab</a> at the <a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a> as a research intern in the AI for Science group.</p></div>
+  <div class="news-item" role="listitem"><time>2022.09</time><p>🎉 Selected for Tongji University’s <a href="https://mp.weixin.qq.com/s/bFF-IJLT49Ftm5x48avsCw">Outstanding Science and Innovation Talent — Youth Enlightenment Program</a>.</p></div>
 </div>
 
-# Selected Publications
+<span class="anchor" id="-publications"></span>
 
-<p class="section-intro">Selected work organized around my current research agenda. <strong>*</strong> denotes equal contribution.</p>
+# 📝 Selected Publication ([Full List](https://scholar.google.com/citations?hl=zh-CN&amp;user=eQXqmG8AAAAJ))
 
-## Scientific Reasoning &amp; Agents
+<p class="publication-legend"><strong>*</strong> Equal contribution. <strong>†</strong> Corresponding author.</p>
 
-<article class="publication-card">
-  <div class="publication-meta"><span class="venue-badge venue-badge--blue">KDD 2026</span><span>AI for Chemistry</span></div>
-  <h3><a href="https://doi.org/10.1145/3770855.3818854">Chem-R: Learning to Reason as a Chemist</a></h3>
-  <p class="publication-authors"><strong><u>Weida Wang*</u></strong>, Benteng Chen*, Di Zhang*, Wanhao Liu, Shuchen Pu, Ben Gao, Jin Zeng, et al.</p>
-  <p class="publication-summary">A three-stage post-training framework that equips language models with chemical foundations, expert-like reasoning protocols, and balanced multi-task reasoning.</p>
-  <div class="publication-links"><a href="https://doi.org/10.1145/3770855.3818854">Paper</a><a href="https://github.com/davidweidawang/Chem-R">Code</a><a href="https://huggingface.co/weidawang/Chem-R-8B">Model</a></div>
+<article class="paper-box publication-item">
+  <div class="paper-box-image">
+    <a href="https://arxiv.org/abs/2510.16880" aria-label="Read Chem-R"><span class="paper-badge">KDD 2026</span><img src="/images/publications/chem-r.webp" alt="Overview of the three-stage Chem-R training framework"></a>
+  </div>
+  <div class="paper-box-text">
+    <h3><a href="https://arxiv.org/abs/2510.16880">Chem-R: Learning to Reason as a Chemist</a></h3>
+    <p class="paper-authors"><strong><u>Weida Wang*</u></strong>, Benteng Chen*, Di Zhang*, Wanhao Liu, Shuchen Pu, Ben Gao, Jin Zeng, et al.</p>
+    <div class="paper-actions">
+      <a class="btn-link btn-paper" href="https://arxiv.org/abs/2510.16880">Paper</a>
+      <a class="btn-link btn-hf" href="https://huggingface.co/weidawang/Chem-R-8B">🤗 HF</a>
+      <a class="btn-link btn-scholar" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=eQXqmG8AAAAJ&amp;citation_for_view=eQXqmG8AAAAJ:hqOjcs7Dif8C"><i class="ai ai-google-scholar" aria-hidden="true"></i><span class="show_paper_citations" data="eQXqmG8AAAAJ:hqOjcs7Dif8C">Scholar</span></a>
+      <a class="btn-link btn-code" href="https://github.com/davidweidawang/Chem-R">Code</a>
+      <a href="#" class="btn-link btn-bib" data-bib-key="wang2026chemr">BIB</a>
+    </div>
+    <ul class="paper-contribution"><li>A three-stage post-training framework that builds chemical foundations, distills expert reasoning protocols, and balances molecular and reaction tasks with multi-task GRPO.</li></ul>
+  </div>
 </article>
 
-<article class="publication-card">
-  <div class="publication-meta"><span class="venue-badge venue-badge--blue">ICLR 2026</span><span>AI for Physics</span></div>
-  <h3><a href="https://openreview.net/forum?id=3d0FRYx0D0">CMPhysBench: A Benchmark for Evaluating Large Language Models in Condensed Matter Physics</a></h3>
-  <p class="publication-authors"><strong><u>Weida Wang*</u></strong>, Dongchen Huang*, Jiatong Li*, Tengchao Yang*, Ziyang Zheng*, Chuyi Peng, et al.</p>
-  <p class="publication-summary">A calculation-focused benchmark with more than 520 graduate-level problems and a fine-grained expression-based scoring protocol.</p>
-  <div class="publication-links"><a href="https://arxiv.org/abs/2508.18124">Paper</a><a href="https://github.com/CMPhysBench/CMPhysBench">Code</a><a href="https://huggingface.co/datasets/weidawang/CMPhysBench">Dataset</a></div>
+<article class="paper-box publication-item">
+  <div class="paper-box-image">
+    <a href="https://openreview.net/forum?id=3d0FRYx0D0" aria-label="Read CMPhysBench"><span class="paper-badge">ICLR 2026</span><img src="/images/publications/cmphysbench.webp" alt="CMPhysBench sample problem and fine-grained expression scoring"></a>
+  </div>
+  <div class="paper-box-text">
+    <h3><a href="https://openreview.net/forum?id=3d0FRYx0D0">CMPhysBench: Evaluating LLMs in Condensed Matter Physics</a></h3>
+    <p class="paper-authors"><strong><u>Weida Wang*</u></strong>, Dongchen Huang*, Jiatong Li*, Tengchao Yang*, Ziyang Zheng*, Di Zhang, Dong Han, et al.</p>
+    <div class="paper-actions">
+      <a class="btn-link btn-paper" href="https://arxiv.org/abs/2508.18124">Paper</a>
+      <a class="btn-link btn-hf" href="https://huggingface.co/datasets/weidawang/CMPhysBench">🤗 HF</a>
+      <a class="btn-link btn-scholar" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=eQXqmG8AAAAJ&amp;citation_for_view=eQXqmG8AAAAJ:hC7cP41nSMkC"><i class="ai ai-google-scholar" aria-hidden="true"></i><span class="show_paper_citations" data="eQXqmG8AAAAJ:hC7cP41nSMkC">Scholar</span></a>
+      <a class="btn-link btn-code" href="https://github.com/CMPhysBench/CMPhysBench">Code</a>
+      <a href="#" class="btn-link btn-bib" data-bib-key="wang2026cmphysbench">BIB</a>
+    </div>
+    <ul class="paper-contribution"><li>A calculation-focused benchmark of 520+ graduate-level problems, paired with expression-structure scoring that reveals errors missed by exact-match accuracy.</li></ul>
+  </div>
 </article>
 
-<article class="publication-card">
-  <div class="publication-meta"><span class="venue-badge venue-badge--blue">KDD 2026</span><span>Molecule Generation</span></div>
-  <h3><a href="https://doi.org/10.1145/3770855.3817473">Speak-to-Structure: Evaluating LLMs in Open-domain Natural Language-Driven Molecule Generation</a></h3>
-  <p class="publication-authors">Jiatong Li, Junxian Li, <strong><u>Weida Wang</u></strong>, Yunqing Liu, Changmeng Zheng, Yatao Bian, Dongzhan Zhou, Xiao-Yong Wei, Qing Li</p>
-  <p class="publication-summary">S²-Bench evaluates open-ended molecular editing, optimization, and customized generation rather than single-answer retrieval.</p>
-  <div class="publication-links"><a href="https://arxiv.org/abs/2412.14642">Paper</a><a href="https://huggingface.co/datasets/phenixace/S2-TOMG-Bench">Dataset</a></div>
+<article class="paper-box publication-item">
+  <div class="paper-box-image">
+    <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Consistent_Time-of-Flight_Depth_Denoising_via_Graph-Informed_Geometric_Attention_ICCV_2025_paper.html" aria-label="Read GIGA-ToF"><span class="paper-badge">ICCV 2025</span><img src="/images/publications/giga-tof.webp" alt="Qualitative depth denoising comparison for GIGA-ToF" loading="lazy"></a>
+  </div>
+  <div class="paper-box-text">
+    <h3><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Consistent_Time-of-Flight_Depth_Denoising_via_Graph-Informed_Geometric_Attention_ICCV_2025_paper.html">Consistent Time-of-Flight Depth Denoising via Graph-Informed Geometric Attention</a></h3>
+    <p class="paper-authors"><strong><u>Weida Wang*</u></strong>, Changyong He*, Jin Zeng, Di Qiu</p>
+    <div class="paper-actions">
+      <a class="btn-link btn-paper" href="https://arxiv.org/abs/2506.23542">Paper</a>
+      <a class="btn-link btn-scholar" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=eQXqmG8AAAAJ&amp;citation_for_view=eQXqmG8AAAAJ:M3ejUd6NZC8C"><i class="ai ai-google-scholar" aria-hidden="true"></i><span class="show_paper_citations" data="eQXqmG8AAAAJ:M3ejUd6NZC8C">Scholar</span></a>
+      <a class="btn-link btn-code" href="https://github.com/davidweidawang/GIGA-ToF">Code</a>
+      <a href="#" class="btn-link btn-bib" data-bib-key="wang2025gigatof">BIB</a>
+    </div>
+    <ul class="paper-contribution"><li>GIGA-ToF combines graph-informed geometric attention with motion-invariant fusion to improve both temporal stability and spatial sharpness in depth video.</li></ul>
+  </div>
 </article>
 
-<article class="publication-card">
-  <div class="publication-meta"><span class="venue-badge venue-badge--blue">CVPR 2026</span><span>Scientific Workflows</span></div>
-  <h3><a href="https://polyreal-benchmark.github.io/">PolyReal: A Benchmark for Real-World Polymer Science Workflows</a></h3>
-  <p class="publication-authors">Wanhao Liu*, <strong><u>Weida Wang*</u></strong>, Jiaqing Xie, Suorong Yang, Jue Wang, Benteng Chen, et al.</p>
-  <p class="publication-summary">A multimodal benchmark spanning laboratory safety, mechanism reasoning, raw-data analysis, and application exploration in polymer science.</p>
-  <div class="publication-links"><a href="https://arxiv.org/abs/2604.02934">Paper</a><a href="https://github.com/wanhaoliu/PolyReal">Code</a><a href="https://huggingface.co/datasets/wanhaoliu/PolyReal">Dataset</a></div>
+<article class="paper-box publication-item">
+  <div class="paper-box-image">
+    <a href="https://aclanthology.org/2026.acl-long.990/" aria-label="Read Step-GRPO"><span class="paper-badge">ACL 2026</span><img src="/images/publications/step-grpo.webp" alt="Dynamic truncated rollout and step-aware relative reward in Step-GRPO" loading="lazy"></a>
+  </div>
+  <div class="paper-box-text">
+    <h3><a href="https://aclanthology.org/2026.acl-long.990/">Step-GRPO: Internalizing Dynamic Early Exit for Efficient Reasoning</a></h3>
+    <p class="paper-authors">Benteng Chen*, <strong><u>Weida Wang*</u></strong>, Shufei Zhang†, Mingbao Lin, Min Zhang†</p>
+    <div class="paper-actions">
+      <a class="btn-link btn-paper" href="https://aclanthology.org/2026.acl-long.990/">Paper</a>
+      <a class="btn-link btn-hf" href="https://huggingface.co/papers/2604.16890">🤗 HF</a>
+      <a class="btn-link btn-scholar" href="https://scholar.google.com/scholar?q=%22Step-GRPO%3A+Internalizing+Dynamic+Early+Exit+for+Efficient+Reasoning%22"><i class="ai ai-google-scholar" aria-hidden="true"></i>Scholar</a>
+      <a href="#" class="btn-link btn-bib" data-bib-key="chen2026stepgrpo">BIB</a>
+    </div>
+    <ul class="paper-contribution"><li>Step-aware reinforcement learning internalizes early exit into the model itself, reducing redundant reasoning without adding an inference-time controller.</li></ul>
+  </div>
 </article>
 
-## Efficient &amp; Structured Reasoning
-
-<article class="publication-card">
-  <div class="publication-meta"><span class="venue-badge venue-badge--violet">ACL 2026</span><span>Efficient Reasoning</span></div>
-  <h3><a href="https://aclanthology.org/2026.acl-long.990/">Step-GRPO: Internalizing Dynamic Early Exit for Efficient Reasoning</a></h3>
-  <p class="publication-authors">Benteng Chen*, <strong><u>Weida Wang*</u></strong>, Shufei Zhang, Mingbao Lin, Min Zhang</p>
-  <p class="publication-summary">A step-aware reinforcement-learning method that internalizes early exit and reduces redundant reasoning without an inference-time controller.</p>
-  <div class="publication-links"><a href="https://aclanthology.org/2026.acl-long.990/">Paper</a><a href="https://arxiv.org/abs/2604.16890">arXiv</a></div>
+<article class="paper-box publication-item">
+  <div class="paper-box-image">
+    <a href="https://polyreal-benchmark.github.io/" aria-label="Visit the PolyReal project"><span class="paper-badge">CVPR 2026</span><img src="/images/publications/polyreal.webp" alt="Five real-world polymer science workflows covered by PolyReal" loading="lazy"></a>
+  </div>
+  <div class="paper-box-text">
+    <h3><a href="https://polyreal-benchmark.github.io/">PolyReal: A Benchmark for Real-World Polymer Science Workflows</a></h3>
+    <p class="paper-authors">Wanhao Liu*, <strong><u>Weida Wang*</u></strong>, Jiaqing Xie, Suorong Yang, Jue Wang, Benteng Chen, Guangtao Mei, et al.</p>
+    <div class="paper-actions">
+      <a class="btn-link btn-paper" href="https://arxiv.org/abs/2604.02934">Paper</a>
+      <a class="btn-link btn-hf" href="https://huggingface.co/datasets/wanhaoliu/PolyReal">🤗 HF</a>
+      <a class="btn-link btn-scholar" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=eQXqmG8AAAAJ&amp;citation_for_view=eQXqmG8AAAAJ:-f6ydRqryjwC"><i class="ai ai-google-scholar" aria-hidden="true"></i><span class="show_paper_citations" data="eQXqmG8AAAAJ:-f6ydRqryjwC">Scholar</span></a>
+      <a class="btn-link btn-code" href="https://github.com/wanhaoliu/PolyReal">Code</a>
+      <a href="#" class="btn-link btn-bib" data-bib-key="liu2026polyreal">BIB</a>
+    </div>
+    <ul class="paper-contribution"><li>A multimodal benchmark grounded in real polymer-science workflows, spanning laboratory safety, mechanism reasoning, raw-data analysis, and application exploration.</li></ul>
+  </div>
 </article>
 
-<article class="publication-card">
-  <div class="publication-meta"><span class="venue-badge venue-badge--violet">ICCV 2025</span><span>Geometric Learning</span></div>
-  <h3><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Consistent_Time-of-Flight_Depth_Denoising_via_Graph-Informed_Geometric_Attention_ICCV_2025_paper.html">Consistent Time-of-Flight Depth Denoising via Graph-Informed Geometric Attention</a></h3>
-  <p class="publication-authors"><strong><u>Weida Wang*</u></strong>, Changyong He*, Jin Zeng, Di Qiu</p>
-  <p class="publication-summary">GIGA-ToF uses motion-invariant graph fusion to improve both temporal stability and spatial sharpness in depth video.</p>
-  <div class="publication-links"><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Consistent_Time-of-Flight_Depth_Denoising_via_Graph-Informed_Geometric_Attention_ICCV_2025_paper.html">Paper</a><a href="https://github.com/davidweidawang/GIGA-ToF">Code</a></div>
+<article class="paper-box publication-item">
+  <div class="paper-box-image">
+    <a href="https://ieeexplore.ieee.org/document/11434965/" aria-label="Read TRACK"><span class="paper-badge">TKDE 2026</span><img src="/images/publications/track.svg" alt="Overview of temporal decoupled kriging in TRACK" loading="lazy"></a>
+  </div>
+  <div class="paper-box-text">
+    <h3><a href="https://ieeexplore.ieee.org/document/11434965/">TRACK: Temporal Decoupled Kriging for Inductive Spatio-Temporal Graph</a></h3>
+    <p class="paper-authors">Jianping Zhou, <strong><u>Weida Wang</u></strong>, Bin Lu, Guanjie Zheng, Lei Bai, Xinbing Wang, Chenghu Zhou</p>
+    <div class="paper-actions">
+      <a class="btn-link btn-paper" href="https://ieeexplore.ieee.org/document/11434965/">Paper</a>
+      <a class="btn-link btn-scholar" href="https://scholar.google.com/scholar?q=%22TRACK%3A+Temporal+Decoupled+Kriging+for+Inductive+Spatio-Temporal+Graph%22"><i class="ai ai-google-scholar" aria-hidden="true"></i>Scholar</a>
+      <a class="btn-link btn-code" href="https://github.com/JeremyChou28/TRACK">Code</a>
+      <a href="#" class="btn-link btn-bib" data-bib-key="zhou2026track">BIB</a>
+    </div>
+    <ul class="paper-contribution"><li>TRACK separates node-specific inherency from dynamic correlations to improve inductive spatio-temporal kriging across traffic and air-quality datasets.</li></ul>
+  </div>
 </article>
 
-<article class="publication-card">
-  <div class="publication-meta"><span class="venue-badge venue-badge--violet">IEEE TKDE 2026</span><span>Spatio-temporal Learning</span></div>
-  <h3><a href="https://doi.org/10.1109/TKDE.2026.3674348">TRACK: Temporal Decoupled Kriging for Inductive Spatio-Temporal Graph</a></h3>
-  <p class="publication-authors">Jianping Zhou, <strong><u>Weida Wang</u></strong>, Bin Lu, Guanjie Zheng, Lei Bai, Xinbing Wang, Chenghu Zhou</p>
-  <p class="publication-summary">A temporal-decoupling approach that separates node-specific properties from dynamic correlations for inductive spatio-temporal kriging.</p>
-  <div class="publication-links"><a href="https://doi.org/10.1109/TKDE.2026.3674348">Paper</a><a href="https://github.com/JeremyChou28/TRACK">Code</a></div>
-</article>
+# 🏅 Honors and Awards
+- *2023* National Scholarship (top 0.2% nation-wide)
+- *2025* Outstanding Graduate Award of Shanghai
+- *2022,2023,2024* Merit Student in Tongji University
+- *2023* 🥇 Gold Medal of International Genetically Engineered Machine Competition (iGEM) AI & Software Track
+- *2023* 🥇 First Prize of National Undergraduate Mathematics Competition (Non-mathematics Category)
+- *2023* 🥇 First Prize of China Undergraduate Computer Design Competition (top 0.1% nation-wide)
+- *2023* 🥈 Second Prize of China Collegiate Computing Contest HCI Innovation Competition (top 0.4% nation-wide)
+- *2024* 🥉Third Prize of China Collegiate Computing Contest  Mobile Application Innovation Contest (top 1% nation-wide)
+- *2023* 🥇 First Prize of HuaShu Cup National Undergraduate Mathematical Modeling Contest  (top 2% nation-wide)
+- *2023* 🥈 Honorable Mention of Mathematical Contest in Modeling
+- *2022* 🥇 First Prize of Undergraduate Mathematics Competition (Non-mathematics Category) in Shanghai
 
-## Recent Preprints
+# 📖 Educations
+- *2025-2030*, College of Computer Science and Artificial Intelligence, Fudan University, Shanghai, China
+  - Supervised by [Prof. Wanli Ouyang](https://scholar.google.com/citations?hl=zh-CN&user=pw_0Z_UAAAAJ)
 
-<div class="compact-publications">
-  <p><span>2026.08</span> <a href="https://arxiv.org/abs/2608.23104"><strong>Molecular LLM Agents: From Architectural Design to Scientific Autonomy</strong></a><br>Jiatong Li, Wengyu Zhang, <u>Weida Wang</u>, Yuxuan Ren, et al.</p>
-  <p><span>2026.07</span> <a href="https://arxiv.org/abs/2607.20935"><strong>Chemical Chain-of-Thought Functions as a Hallucination-Prone Molecular Scratchpad</strong></a><br>Jiatong Li, Yuxuan Ren, <u>Weida Wang</u>, Xiaoyong Wei, Yatao Bian</p>
-  <p><span>2026.07</span> <a href="https://arxiv.org/abs/2607.01800"><strong>Do LLMs Truly Generalize in the Molecular Domain? A Perturbation-Based Analysis</strong></a><br>Jiatong Li, <u>Weida Wang</u>, Changmeng Zheng, Shufei Zhang, et al.</p>
-  <p><span>2026.05</span> <a href="https://arxiv.org/abs/2605.29833"><strong>OmniMatBench: A Human-Calibrated Multimodal Reasoning Benchmark Across 19 Materials Science Subfields</strong></a><br>Wanhao Liu, Jiaqing Xie, Qian Tan, <u>Weida Wang</u>, et al.</p>
-  <p><span>2026.05</span> <a href="https://arxiv.org/abs/2605.02351"><strong>MolViBench: Evaluating LLMs on Molecular Vibe Coding</strong></a><br>Jiatong Li, Yuxuan Ren, <u>Weida Wang</u>, Changmeng Zheng, et al.</p>
-</div>
 
-# Education &amp; Experience
+- *2021-2025*, School of Computer Science and Technology, Tongji University, Shanghai, China
+  - Supervised by [AP. Jin Zeng](https://scholar.google.com/citations?hl=en&user=jBxf3FYAAAAJ) and [Prof. Lin Zhang](https://scholar.google.com/citations?hl=en&user=8VOk_S4AAAAJ)
 
-<div class="timeline">
-  <div class="timeline-item"><div class="timeline-date">2025 — 2030</div><div><h3>Fudan University</h3><p>Ph.D. in Computer Science and Technology · Advisor: <a href="https://scholar.google.com/citations?user=pw_0Z_UAAAAJ">Prof. Wanli Ouyang</a></p></div></div>
-  <div class="timeline-item"><div class="timeline-date">2024 — Present</div><div><h3>Shanghai Artificial Intelligence Laboratory</h3><p>Research Intern · AI for Science / OpenScienceLab</p></div></div>
-  <div class="timeline-item"><div class="timeline-date">2021 — 2025</div><div><h3>Tongji University</h3><p>B.Eng. in Software Engineering · Advisors: <a href="https://scholar.google.com/citations?user=jBxf3FYAAAAJ">Prof. Jin Zeng</a> and <a href="https://scholar.google.com/citations?user=8VOk_S4AAAAJ">Prof. Lin Zhang</a></p></div></div>
-</div>
+# 💻 Internships
+- *2024.10 - Present*, AI for Science Group, Shanghai AI Laboratory [[link]](https://www.shlab.org.cn/)
+- *2023.07 - 2025.03*, Graph Signal Processing Lab, Tongji University
+- *2023.11 - 2024.08*, Intelligent Internet of Things Research Center (IIOT), Shanghai Jiao Tong University [[link]](https://iiot.sjtu.edu.cn/#/)
+- *2023.11 - 2024.03*, City Science Lab@Shanghai (MIT Media Lab) [[link]](https://www.media.mit.edu/projects/city-science-lab-shanghai/overview/)
+- *2023.03 - 2024.03*, Key Laboratory of Geotechnical and Underground Engineering of the Ministry of Education, Tongji University [[link]](https://geokeylab.tongji.edu.cn/)
+- *2023.07 - 2023.08*, Hundsun Technologies Inc. [[link]](https://en.hundsun.com/)
 
-<details class="earlier-experience">
-  <summary>Earlier research experience</summary>
-  <ul>
-    <li><strong>Graph Signal Processing Lab, Tongji University</strong> · 2023.07–2025.03</li>
-    <li><strong>Intelligent Internet of Things Research Center, Shanghai Jiao Tong University</strong> · 2023.11–2024.08</li>
-    <li><strong>City Science Lab@Shanghai, MIT Media Lab</strong> · 2023.11–2024.03</li>
-    <li><strong>Key Laboratory of Geotechnical and Underground Engineering, Tongji University</strong> · 2023.03–2024.03</li>
-    <li><strong>Hundsun Technologies</strong> · 2023.07–2023.08</li>
-  </ul>
-</details>
-
-# Selected Honors
-
-<div class="honors-grid">
-  <div><span>2025</span><strong>Outstanding Graduate of Shanghai</strong></div>
-  <div><span>2023</span><strong>National Scholarship</strong></div>
-  <div><span>2023</span><strong>iGEM Gold Medal · AI &amp; Software Track</strong></div>
-  <div><span>2023</span><strong>First Prize · China Undergraduate Computer Design Competition</strong></div>
-  <div><span>2023</span><strong>Second Prize · China Collegiate Computing Contest HCI Innovation Competition</strong></div>
-  <div><span>2024</span><strong>Third Prize · China Collegiate Computing Contest Mobile Application Innovation Competition</strong></div>
-  <div><span>2023</span><strong>First Prize · National Undergraduate Mathematics Competition</strong></div>
-  <div><span>2022–2024</span><strong>Merit Student · Tongji University</strong></div>
-</div>
-
-# Selected Projects
+# 🧩 Projects
 
 <div class="project-grid">
   <article class="project-card">
@@ -167,4 +184,6 @@ Before joining Fudan, I received my B.Eng. in Software Engineering from [Tongji 
   </article>
 </div>
 
-<p class="page-updated">Last updated: August 2026.</p>
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=V-15SBhVlTGZkkzGvASAzWa1Gz7gqKFjVUUDiBiDCaw&cl=ffffff&w=a"></script>
