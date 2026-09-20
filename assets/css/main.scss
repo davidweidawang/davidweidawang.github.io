@@ -347,6 +347,13 @@ h1:before, .anchor:before {
   }
 }
 
+.project-card--repository {
+  > img {
+    background: #f3f4f6;
+    object-fit: contain;
+  }
+}
+
 .project-label {
   color: #666;
   font-size: 0.76em;
@@ -359,6 +366,21 @@ h1:before, .anchor:before {
   margin-bottom: 0 !important;
   color: #8a5b12;
   font-weight: bold;
+}
+
+.project-stars {
+  margin-bottom: 0 !important;
+}
+
+.project-stars__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  color: #8a5b12 !important;
+  font-weight: bold;
+  text-decoration: none !important;
+
+  &:hover { text-decoration: underline !important; }
 }
 
 @media (max-width: 48em) {
